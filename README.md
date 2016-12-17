@@ -1,6 +1,6 @@
 # RCoinUSA Repository
 # to make daemon 
-sudo apt-get -y update \r\n
+sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install ufw
 sudo apt-get -y install qt4-qmake libqt4-dev build-essential libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libssl-dev libdb++-dev libminiupnpc-dev git g++ g++-4.6
